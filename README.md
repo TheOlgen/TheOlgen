@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a passionate computer science student with interests in algorithms, game development, and artificial intelligence. My main languages are C/C++, Java, and Python. I enjoy building tools and projects that combine my love for classic games and modern programming.
+I'm a passionate computer science student with interests in algorithms, game development, and artificial intelligence. 
 
 ## Featured Project
 
@@ -20,8 +20,7 @@ I'm a passionate computer science student with interests in algorithms, game dev
 
 ## Contact
 
-- GitHub: [TheOlgen](https://github.com/TheOlgen)
-- (Add more contact info or links here if you wish)
+Contact me via e-mail: **olgarodziew@gmail.com**
 
 
 <!--
