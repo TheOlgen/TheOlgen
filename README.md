@@ -17,13 +17,13 @@ I'm a passionate computer science student with interests in embedded systems, ga
 - **[Chess-CheckersTransformer](https://github.com/TheOlgen/Chess-CheckersTransformer):**  
   A tool for transforming and analyzing chess and checkers games.
   
-- **[[Cryptography app](https://github.com/TheOlgen/cryptography-project](https://github.com/TheOlgen/PGsem4)):**  
+- **[Cryptography app](https://github.com/TheOlgen/cryptography-project](https://github.com/TheOlgen/PGsem4)):**  
   AES File Encryption & Decryption Tool
 
 - **My university archives:**
-  -[4 Semester](https://github.com/TheOlgen/PGsem4)
-  -[3 Semester](https://github.com/TheOlgen/PG_sem3)
-  -[2 Semester](https://github.com/TheOlgen/PG_sem2)
+  - [4 Semester](https://github.com/TheOlgen/PGsem4)
+  - [3 Semester](https://github.com/TheOlgen/PG_sem3)
+  - [2 Semester](https://github.com/TheOlgen/PG_sem2)
   
 
 
