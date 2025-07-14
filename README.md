@@ -3,6 +3,7 @@
 🎓 **Computer Science student at Gdańsk University of Technology**  
 💻 **Languages:** C/C++, C#, Java, Python and more  
 🔭 **I’m currently working on ...** my portfolio 
+🌱 I’m currently learning kotlin
 ⚡ **Fun fact:** I still have a milk tooth
 
 ---
