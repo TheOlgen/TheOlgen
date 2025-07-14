@@ -4,7 +4,7 @@
 
 💻 **Languages:** C/C++, C#, Java, Python and more  
 
-🔭 **I’m currently working on ** my portfolio 
+🔭 **I’m currently working on** my portfolio 
 
 🌱 I’m currently learning kotlin
 
