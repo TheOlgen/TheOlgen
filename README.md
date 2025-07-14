@@ -3,8 +3,7 @@
 🎓 **Computer Science student at Gdańsk University of Technology**  
 💻 **Languages:** C/C++, C#, Java, Python and more  
 🔭  **I’m currently working on ...** my portfolio
-
-⚡ **Fun fact: ** I still have a milk tooth
+⚡ **Fun fact:** I still have a milk tooth
 
 ---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheOlgen&layout=compact)
