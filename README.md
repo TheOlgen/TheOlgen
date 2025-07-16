@@ -6,7 +6,7 @@
 
 🔭 **I’m currently working on** my portfolio 
 
-🌱 I’m currently learning kotlin
+🌱 **I’m currently learning** kotlin
 
 ⚡ **Fun fact:** I still have a milk tooth
 
